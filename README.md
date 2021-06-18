@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PR0TEX
+- 👀 I’m interested in new technologies
+- 🌱 I’m currently learning Java, C++ and Python
